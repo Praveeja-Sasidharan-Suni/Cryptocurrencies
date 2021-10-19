@@ -61,13 +61,16 @@ Using our knowledge of the K-means algorithm,we have created an elbow curve usin
  Then, ran the K-means algorithm to predict the K clusters for the cryptocurrencies’ data.
 
 
-    - An elbow curve is created using `hvPlot` to find the best value for K 
+    1. An elbow curve is created using `hvPlot` to find the best value for K .
+    
 	![elbow-curve.PNG](https://github.com/Praveeja-Sasidharan-Suni/Cryptocurrencies/blob/main/Images/elbow-curve.PNG?raw=true)
 
-    - Predictions are made on the K clusters of the cryptocurrencies’ data 
+    2. Predictions are made on the K clusters of the cryptocurrencies’ data.
+    
 	![predictions.PNG](https://github.com/Praveeja-Sasidharan-Suni/Cryptocurrencies/blob/main/Images/predictions.PNG?raw=true)
 
-    - A new DataFrame is created with the same index as the `crypto_df` DataFrame and has the following columns: `Algorithm`, `ProofType`, `TotalCoinsMined`, `TotalCoinSupply`, `PC 1`, `PC 2`, `PC 3`, `CoinName`, and `Class` 
+    3. A new DataFrame is created with the same index as the `crypto_df` DataFrame and has the following columns: `Algorithm`, `ProofType`, `TotalCoinsMined`, `TotalCoinSupply`, 	`PC 1`, `PC 2`, `PC 3`, `CoinName`, and `Class` 
+	
 	![clustered_df.PNG](https://github.com/Praveeja-Sasidharan-Suni/Cryptocurrencies/blob/main/Images/clustered_df.PNG?raw=true)
 
 
