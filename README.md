@@ -101,6 +101,10 @@ Deliverable 2, then you’ll create a table with all the currently tradable cryp
 * A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point
 
 	![scatter-plot2.PNG](https://github.com/Praveeja-Sasidharan-Suni/Cryptocurrencies/blob/main/Images/scatter-plot2.PNG?raw=true)
+	
+## Summary
+	Using Unsupervised learning,Preprocessing the Data for PCA, Reducing Data Dimensions Using PCA,Clustering Cryptocurrencies Using K-means,Visualizing Cryptocurrencies Results are done successfully.
+
 
 
 
