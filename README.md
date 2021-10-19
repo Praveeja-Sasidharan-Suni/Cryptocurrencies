@@ -103,7 +103,9 @@ Deliverable 2, then you’ll create a table with all the currently tradable cryp
 	![scatter-plot2.PNG](https://github.com/Praveeja-Sasidharan-Suni/Cryptocurrencies/blob/main/Images/scatter-plot2.PNG?raw=true)
 	
 ## Summary
-	Using Unsupervised learning,Preprocessing the Data for PCA, Reducing Data Dimensions Using PCA,Clustering Cryptocurrencies Using K-means,Visualizing Cryptocurrencies Results are done successfully.
+	
+	Using Unsupervised learning,Preprocessing the Data for PCA, Reducing Data Dimensions Using PCA,Clustering Cryptocurrencies Using K-means,Visualizing 
+	Cryptocurrencies results are done successfully.
 
 
 
